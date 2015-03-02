@@ -1,0 +1,5 @@
+c:\Users\Night\documents\visual studio 2013\Projects\Parser\ParserLib\obj\Debug\ParserLib.csprojResolveAssemblyReference.cache
+c:\Users\Night\documents\visual studio 2013\Projects\Parser\ParserLib\bin\Debug\ParserLib.dll
+c:\Users\Night\documents\visual studio 2013\Projects\Parser\ParserLib\bin\Debug\ParserLib.pdb
+c:\Users\Night\documents\visual studio 2013\Projects\Parser\ParserLib\obj\Debug\ParserLib.dll
+c:\Users\Night\documents\visual studio 2013\Projects\Parser\ParserLib\obj\Debug\ParserLib.pdb
